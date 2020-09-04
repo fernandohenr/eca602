@@ -1,0 +1,12 @@
+environment.yml
+
+
+name: notebook-environment
+channels:
+  - conda-forge
+dependencies:
+  - matplotlib
+  - ipywidgets
+  - scipy
+  - IPython
+  - voila
