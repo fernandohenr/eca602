@@ -1,6 +1,3 @@
-environment.yml
-
-
 name: notebook-environment
 channels:
   - conda-forge
